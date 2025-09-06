@@ -42,21 +42,21 @@ Featured Projects
 - Developed comprehensive stakeholder reporting dashboards
 - **Tech Stack:** R, Financial Modeling, Monte Carlo Simulation, Risk Analysis
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:** Python | R | SQL | JavaScript  
 **AI/ML:** TensorFlow | Scikit-learn | NLP | Predictive Modeling | Statistical Analysis  
 **Cloud & DevOps:** AWS | Snowflake | Jenkins CI/CD | GitHub Actions  
 **Visualization:** Tableau | Power BI | Plotly | Streamlit  
 **Development:** RESTful APIs | JSON Integration | ETL Pipelines | Database 
-## 🎯 Professional Impact
 
+## Professional Impact
 - **Production AI Systems:** Deployed applications serving 16,000+ users with ChatGPT API integration
 - **Financial Analysis:** Led $38M+ investment decision modeling with Monte Carlo simulations  
 - **Risk Analytics:** Built weather catastrophe models processing billions in economic impact data
 - **Process Optimization:** Implemented ML pipelines reducing operational costs and improving efficiency
 
-## 🌟 Let's Connect!
+## Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syrettameeks)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syrettam@bu.edu)
@@ -64,4 +64,4 @@ Featured Projects
 
 ---
 
-**Always learning, always building, always solving problems with data!** 📈✨
+**Always learning, always building, always solving problems with data!** 📈
