@@ -1,17 +1,18 @@
-# Hi there, I'm Syretta Meeks! 👋
+Hi there, I'm Syretta Meeks! 👋
 
-**Data Scientist & AI Solutions Engineer** 🚀 MS Applied Business Analytics @ Boston University (Expected 2026)  
-**Data Science Intern @ Progressive Insurance** 🏢  
-⭐ Passionate about AI/ML, Risk Analytics, and Business Intelligence
+Data Scientist & AI Solutions Engineer** 🚀 MS Applied Business Analytics @ Boston University (Expected 2026)  
+Data Science Intern @ Progressive Insurance
 
-## 🔥 Current Focus
+Passionate about AI/ML, Risk Analytics, and Business Intelligence
+
+Current Focus
 
 - Building production AI applications for enterprise-scale insurance analytics
 - Developing weather catastrophe prediction models processing $23B+ economic impact data  
 - Creating automated ML pipelines for commercial risk assessment
 - Leading cross-functional analytics initiatives serving 16,000+ employees
 
-## 🚀 Featured Projects
+Featured Projects
 
 ### [ELEVATE AI Platform](https://github.com/SyrettaMeeks/ELEVATE-AI) 
 **Full-stack AI marketing solution targeting small business market gap**
