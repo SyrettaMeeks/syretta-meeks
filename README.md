@@ -1,6 +1,6 @@
 Hi there, I'm Syretta Meeks! 👋
 
-Data Science Intern
+Data Science Intern - 
 MS Applied Business Analytics @ Boston University (Expected 2026)  
 
 
