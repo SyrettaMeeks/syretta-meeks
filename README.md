@@ -1,6 +1,7 @@
 Hi there, I'm Syretta Meeks! 👋
 
-Data Scientist & AI Solutions Engineer** 🚀 MS Applied Business Analytics @ Boston University (Expected 2026)  
+Data Scientist & AI Solutions Engineer** 
+MS Applied Business Analytics @ Boston University (Expected 2026)  
 Data Science Intern @ Progressive Insurance
 
 Passionate about AI/ML, Risk Analytics, and Business Intelligence
